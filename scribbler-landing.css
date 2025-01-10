@@ -6,19 +6,19 @@
 }
 
 nav {
-  background-color: var(--bg-color);
+  background-color: #000000;
 }
 
 /* hero section */
 .hero {
   text-align: center;
-  background-color: var(--bg-color);
+  background-color: #000000;
   padding: 2rem 0 10rem 0;
 }
 
 .hero__title {
-  font-weight: 900;
-  color: var(--primary-color);
+  font-weight: 400;
+  color: #EA005E;
 }
 
 .hero__description {
